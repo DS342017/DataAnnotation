@@ -170,6 +170,38 @@
     <Compile Include="Migrations\201810291859482_DataAnnotx.Designer.cs">
       <DependentUpon>201810291859482_DataAnnotx.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201810292318449_DataAnnotx3.cs" />
+    <Compile Include="Migrations\201810292318449_DataAnnotx3.Designer.cs">
+      <DependentUpon>201810292318449_DataAnnotx3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201810292324126_DataAnnotx31.cs" />
+    <Compile Include="Migrations\201810292324126_DataAnnotx31.Designer.cs">
+      <DependentUpon>201810292324126_DataAnnotx31.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201810292327094_DataAnnotx32.cs" />
+    <Compile Include="Migrations\201810292327094_DataAnnotx32.Designer.cs">
+      <DependentUpon>201810292327094_DataAnnotx32.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201810292331002_DataAnnotx33.cs" />
+    <Compile Include="Migrations\201810292331002_DataAnnotx33.Designer.cs">
+      <DependentUpon>201810292331002_DataAnnotx33.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201810311138209_DataAnnotx1.cs" />
+    <Compile Include="Migrations\201810311138209_DataAnnotx1.Designer.cs">
+      <DependentUpon>201810311138209_DataAnnotx1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201810311222359_AtualizaRequired.cs" />
+    <Compile Include="Migrations\201810311222359_AtualizaRequired.Designer.cs">
+      <DependentUpon>201810311222359_AtualizaRequired.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201810311231263_AtualizaRequired1.cs" />
+    <Compile Include="Migrations\201810311231263_AtualizaRequired1.Designer.cs">
+      <DependentUpon>201810311231263_AtualizaRequired1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201810311239319_AtualizaRequired2.cs" />
+    <Compile Include="Migrations\201810311239319_AtualizaRequired2.Designer.cs">
+      <DependentUpon>201810311239319_AtualizaRequired2.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Pessoa.cs" />
     <Compile Include="Models\PessoaContext.cs" />
@@ -245,6 +277,30 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201810291859482_DataAnnotx.resx">
       <DependentUpon>201810291859482_DataAnnotx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201810292318449_DataAnnotx3.resx">
+      <DependentUpon>201810292318449_DataAnnotx3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201810292324126_DataAnnotx31.resx">
+      <DependentUpon>201810292324126_DataAnnotx31.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201810292327094_DataAnnotx32.resx">
+      <DependentUpon>201810292327094_DataAnnotx32.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201810292331002_DataAnnotx33.resx">
+      <DependentUpon>201810292331002_DataAnnotx33.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201810311138209_DataAnnotx1.resx">
+      <DependentUpon>201810311138209_DataAnnotx1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201810311222359_AtualizaRequired.resx">
+      <DependentUpon>201810311222359_AtualizaRequired.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201810311231263_AtualizaRequired1.resx">
+      <DependentUpon>201810311231263_AtualizaRequired1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201810311239319_AtualizaRequired2.resx">
+      <DependentUpon>201810311239319_AtualizaRequired2.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
